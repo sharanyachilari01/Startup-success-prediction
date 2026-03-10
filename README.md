@@ -19,16 +19,6 @@ The goal is to understand patterns that contribute to startup success and build 
 
 ---
 
-## Technologies Used
-
-* R Programming
-* ggplot2
-* dplyr
-* readxl
-* caret
-
----
-
 ## Statistical Techniques
 
 The project applies several statistical and analytical methods:
